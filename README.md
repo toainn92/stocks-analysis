@@ -5,12 +5,12 @@ The purpose of this analysis is to automate the data analysis of stocks for Stev
 
 ## Results
 
-#2017 Stock Analysis
+## 2017 Stock Analysis
 
 
 ![](Resources/VBA_Challenge_2017.PNG)
 
-#2018 Stock Analysis
+## 2018 Stock Analysis
 
 
 ![](Resources/VBA_Challenge_2018.PNG)
