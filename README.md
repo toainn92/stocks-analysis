@@ -38,7 +38,8 @@ Pros:
 - VBA script is more efficient, require fewer step, and easier for future users to understand.
 
 Cons: 
-- The refactoring code took time to update and took many revisions to ensure that it matches the results of the original code.
+- The refactoring code took many revisions to update to ensure that it matches the results of the original code.
+- This process was time consuming to determine where the syntax error of the code was
 
 
 
